@@ -1,4 +1,4 @@
-Roblox history
+Roblox History
 
 Este projeto é uma página web simples e inicial dedicada a documentar a história, os fatos e os principais acontecimentos ocorridos no universo do Roblox entre os anos de 2006 e 2026. O site funciona como um blog ou portal de registro mantido pelo autor Gusta.
 
